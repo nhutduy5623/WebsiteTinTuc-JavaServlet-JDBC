@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhwebJEE/controller/admin/CategoryController.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/controller/admin/NewsController.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/controller/admin/api/CategoryAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/controller/admin/api/CommentAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/controller/admin/api/NewAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/service/impl/UserService.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/utils/FormUtil.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/utils/HttpUtil.java=UTF-8
+encoding//src/main/java/com/laptrinhwebJEE/utils/SessionUtil.java=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
+encoding//src/main/webapp/common/web/menu.jsp=UTF-8
